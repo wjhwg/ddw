@@ -1,0 +1,150 @@
+body,div,ul,input,li,i,dl,dt,span,a,dd,p,h3,h2{
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none;
+  }
+a{
+    
+    text-decoration: none;
+}
+li{
+    list-style: none;
+} 
+input{
+    outline: none;
+    border: none;
+}
+.operate_nav a:hover{
+    color: red;
+    
+}
+.head_welcome a:hover{
+    color: red;
+}
+.search_bottom_item a:hover{
+    color: red;
+}
+.ddorder a:hover{
+    color: red;
+}
+.ddcart:hover{
+    color: red;
+    background-color: #fff;
+    border: 2px solid #dcdcdc;
+}
+.nav_all1 a:hover{
+    color: red;
+}
+.sub ul li a:hover{
+    color: red;
+    text-decoration-line: underline;
+}
+.dd_level2 a:hover{
+    color: rgba(153, 153, 7, 0.918);
+    text-decoration-line: underline;
+}
+.name a:hover{
+    color: rgba(153, 153, 7, 0.918);
+    text-decoration-line: underline;
+}
+.state_ul a:hover{
+    color: rgba(153, 153, 7, 0.918);
+    text-decoration-line: underline;
+}
+.pre_right a:hover{
+    text-decoration: underline;
+}
+.pre_name a:hover{
+    color: rgba(153, 153, 7, 0.918);
+    text-decoration-line: underline;
+}
+.head_tab li a span:hover{
+    border-bottom: 0px;
+    padding-top: 1px;
+    border-bottom: 0;
+    font-weight: bold;
+    color: #487a6f;
+    text-decoration-line: underline;
+    border-top: 2px solid #487a6f;
+}
+.content_p a:hover{
+    color: rgba(187, 187, 3, 0.918);
+    text-decoration-line: underline;
+}
+.link a:hover{
+    text-decoration-line: underline;
+    color: #487a6f;
+}
+.tab_aa li:hover{
+    color: #487a6f;
+    font-weight: bold;
+    border-top: 2px solid #487a6f;
+    border-left: 2px solid #487a6f;
+    border-right: 2px solid #487a6f;
+    border-radius: 6px 6px 0 0;
+    padding: 0 15px;
+    height: 32px;
+    line-height: 32px;
+    border-bottom: none;
+    background: #fff;
+}
+.dujia_name a:hover{
+    color: rgba(187, 187, 3, 0.918);
+    text-decoration-line: underline;
+}
+.sell_list_ul li a span:hover{
+    color: #487a6f;
+    border-top: 0;
+    font-weight: bold;
+    border-bottom: 0px;
+    padding-top: 1px;
+    border-top: 2px solid #487a6f;
+    border-bottom: none;
+    text-decoration: underline;
+ 
+
+}
+.head_tuijian .tab_aa1 li:hover{
+    color: #487a6f;
+    font-weight: bold;
+    border-top: 2px solid #487a6f;
+    border-left: 2px solid #487a6f;
+    border-right: 2px solid #487a6f;
+    border-radius: 6px 6px 0 0;
+    padding: 0 15px;
+    height: 32px;
+    line-height: 32px;
+    border-bottom: none;
+    background: #fff;
+}    
+.content_right ul li:hover{
+    color: #d10000;
+}
+.a_link a:hover{
+    text-decoration: underline;
+}
+.store_six .book_reco_area .book_reco_head p span:hover{
+    text-decoration: underline;
+}
+.book_reco_content .book_reco_right .book_youlike1 ul li a:hover{
+    color: #d18800;
+    text-decoration: underline;
+    
+}
+
+.footer_sort ul li a:hover{
+    color: #d18800;
+    text-decoration: underline;
+}
+
+
+.footer_copyright a:hover{
+    color: #d18800;
+    text-decoration: underline;
+}
+.footer_nav .footer_a a:hover{
+    color: #d18800;
+    text-decoration: underline;
+}
